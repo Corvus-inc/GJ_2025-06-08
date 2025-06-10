@@ -302,7 +302,7 @@ GameObject:
   - component: {fileID: 135051691}
   - component: {fileID: 135051690}
   m_Layer: 0
-  m_Name: "\u0434\u0438\u0432\u0430\u043D"
+  m_Name: sofa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2590,7 +2590,7 @@ GameObject:
   - component: {fileID: 239388730}
   - component: {fileID: 239388729}
   m_Layer: 0
-  m_Name: "\u043E\u043A\u043D\u043E 2"
+  m_Name: window2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2943,7 +2943,7 @@ GameObject:
   - component: {fileID: 240578902}
   - component: {fileID: 240578901}
   m_Layer: 0
-  m_Name: "1 \u0441\u0442\u0435\u043D\u0430 (1)"
+  m_Name: wall 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4781,7 +4781,7 @@ GameObject:
   - component: {fileID: 284195881}
   - component: {fileID: 284195880}
   m_Layer: 0
-  m_Name: "\u0442\u0443\u043C\u0431\u0430"
+  m_Name: underTV table
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5134,7 +5134,7 @@ GameObject:
   - component: {fileID: 297995562}
   - component: {fileID: 297995561}
   m_Layer: 0
-  m_Name: "\u043A\u0440\u043E\u0432\u0430\u0442\u044C"
+  m_Name: bed
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5816,7 +5816,7 @@ GameObject:
   m_Component:
   - component: {fileID: 393846659}
   m_Layer: 0
-  m_Name: "\u043A\u0443\u0445\u043D\u044F"
+  m_Name: kitchen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5996,7 +5996,7 @@ GameObject:
   - component: {fileID: 469613116}
   - component: {fileID: 469613115}
   m_Layer: 0
-  m_Name: "\u043F\u043E\u043B"
+  m_Name: floor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6919,7 +6919,7 @@ GameObject:
   - component: {fileID: 657148400}
   - component: {fileID: 657148399}
   m_Layer: 0
-  m_Name: "\u041C\u043E\u043B\u044C\u0431\u0435\u0440\u0442"
+  m_Name: Molbert
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7272,7 +7272,7 @@ GameObject:
   - component: {fileID: 729110225}
   - component: {fileID: 729110224}
   m_Layer: 0
-  m_Name: "\u043E\u043A\u043D\u043E 1"
+  m_Name: window 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7625,8 +7625,7 @@ GameObject:
   - component: {fileID: 743066360}
   - component: {fileID: 743066359}
   m_Layer: 0
-  m_Name: "\u0442\u0430\u0431\u0443\u0440\u0435\u0442 \u0441 \u0445\u0443\u0434\u043E\u0436\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u043E\u0439
-    \u0448\u0435\u043B\u0443\u0445\u043E\u0439"
+  m_Name: shelf with art stuf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8144,8 +8143,7 @@ GameObject:
   - component: {fileID: 767777990}
   - component: {fileID: 767777989}
   m_Layer: 0
-  m_Name: "\u043A\u0443\u0445\u043E\u043D\u043D\u044B\u0435 \u043F\u043E\u043B\u043A\u0438
-    \u043D\u0438\u0437"
+  m_Name: kitchen shelves
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8738,7 +8736,7 @@ GameObject:
   - component: {fileID: 804415555}
   - component: {fileID: 804415554}
   m_Layer: 0
-  m_Name: "\u0432\u0435\u0448\u0430\u043B\u043A\u0430"
+  m_Name: hanger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9091,7 +9089,7 @@ GameObject:
   - component: {fileID: 848344793}
   - component: {fileID: 848344792}
   m_Layer: 0
-  m_Name: "\u043B\u0430\u043C\u043F\u0430"
+  m_Name: lamp
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12092,7 +12090,7 @@ GameObject:
   - component: {fileID: 980727656}
   - component: {fileID: 980727655}
   m_Layer: 0
-  m_Name: "\u0445\u043E\u043B\u043E\u0434\u0438\u043B\u044C\u043D\u0438\u043A"
+  m_Name: refrigerator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12445,7 +12443,7 @@ GameObject:
   - component: {fileID: 997222595}
   - component: {fileID: 997222594}
   m_Layer: 0
-  m_Name: "\u0446\u0432\u0435\u0442\u043E\u043A"
+  m_Name: flower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12798,7 +12796,7 @@ GameObject:
   - component: {fileID: 1053774204}
   - component: {fileID: 1053774203}
   m_Layer: 0
-  m_Name: "\u0440\u0430\u0431 \u0441\u0442\u043E\u043B"
+  m_Name: work table
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13151,7 +13149,7 @@ GameObject:
   - component: {fileID: 1075914764}
   - component: {fileID: 1075914763}
   m_Layer: 0
-  m_Name: "\u0441\u0442\u0443\u043B \u043A\u0443\u0445\u043D\u044F"
+  m_Name: chair kitchen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14604,7 +14602,7 @@ GameObject:
   - component: {fileID: 1118807753}
   - component: {fileID: 1118807752}
   m_Layer: 0
-  m_Name: Cube (2)
+  m_Name: nightstand
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14957,7 +14955,7 @@ GameObject:
   - component: {fileID: 1139151761}
   - component: {fileID: 1139151760}
   m_Layer: 0
-  m_Name: "\u0434\u044B\u0435\u0440\u044C \u043D\u0430 \u0443\u043B\u0438\u0446\u0443"
+  m_Name: entrance door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15672,7 +15670,7 @@ GameObject:
   - component: {fileID: 1326661682}
   - component: {fileID: 1326661681}
   m_Layer: 0
-  m_Name: "\u043A\u0430\u043A\u043E\u0439-\u0442\u043E \u0448\u043A\u0430\u0444"
+  m_Name: shelf
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16961,7 +16959,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1538517628}
   m_Layer: 0
-  m_Name: RoomLevel (1)
+  m_Name: living room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17018,8 +17016,7 @@ GameObject:
   - component: {fileID: 1554365057}
   - component: {fileID: 1554365056}
   m_Layer: 0
-  m_Name: "\u043A\u0443\u0445\u043E\u043D\u043D\u044B\u0435 \u043F\u043E\u043B\u043A\u0438
-    \u0432\u0435\u0440\u0445"
+  m_Name: upper kitchen shelves
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17537,7 +17534,7 @@ GameObject:
   - component: {fileID: 1590746135}
   - component: {fileID: 1590746134}
   m_Layer: 0
-  m_Name: "\u0441\u0442\u0435\u043D\u0430"
+  m_Name: wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17890,7 +17887,7 @@ GameObject:
   - component: {fileID: 1628926477}
   - component: {fileID: 1628926476}
   m_Layer: 0
-  m_Name: "\u0441\u0442\u0435\u043D\u0430 (1)"
+  m_Name: wall 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18243,7 +18240,7 @@ GameObject:
   - component: {fileID: 1639106412}
   - component: {fileID: 1639106411}
   m_Layer: 0
-  m_Name: "1 \u0441\u0442\u0435\u043D\u0430"
+  m_Name: wall 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18714,7 +18711,7 @@ GameObject:
   - component: {fileID: 1781137094}
   - component: {fileID: 1781137093}
   m_Layer: 0
-  m_Name: "\u0434\u044B\u0435\u0440\u044C \u0432\u0430\u043D\u043D\u0430"
+  m_Name: bathroom door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19067,7 +19064,7 @@ GameObject:
   - component: {fileID: 1800091193}
   - component: {fileID: 1800091192}
   m_Layer: 0
-  m_Name: "\u0442\u0435\u043B\u0435\u0432\u0438\u0437\u043E\u0440"
+  m_Name: TV
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20080,7 +20077,7 @@ GameObject:
   - component: {fileID: 2090770132}
   - component: {fileID: 2090770131}
   m_Layer: 0
-  m_Name: "\u0442\u0443\u043C\u0431\u0430 \u0434\u043B\u044F \u043E\u0431\u0443\u0432\u0438"
+  m_Name: shoe cabinet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20433,7 +20430,7 @@ GameObject:
   - component: {fileID: 2096444984}
   - component: {fileID: 2096444983}
   m_Layer: 0
-  m_Name: "1 \u0441\u0442\u0435\u043D\u0430 (2)"
+  m_Name: wall 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
