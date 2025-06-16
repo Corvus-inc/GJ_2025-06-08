@@ -123,12 +123,32 @@ namespace Game
         private void CameraInit()
         {
             var virtualCamera = Instantiate(virtualCameraObj, transform.parent).GetComponent<CinemachineVirtualCamera>();
-            
+
             virtualCamera.Follow = _playerModel.PlayerTransform;
             virtualCamera.LookAt = _playerModel.PlayerTransform;
 
             var cameraRotation = virtualCamera.gameObject.AddComponent<CameraRotation>();
             cameraRotation.Initialization(_inputAdapter, virtualCamera.transform);
+        }
+
+        private void OnDestroy()
+        {
+            if (_interactionSystem != null)
+            {
+                _interactionSystem.OnInteraction -= HandlePlayerInteraction;
+                _interactionSystem.OnInteraction -= HandleCompleteLevelInteraction;
+            }
+
+            if (_miniGameCoordinator != null && _questLog != null)
+            {
+                foreach (var game in _miniGameCoordinator.Games)
+                {
+                    game.OnMiniGameComplete -= _questLog.CompleteQuest;
+                }
+            }
+
+            _interactionSystem?.Dispose();
+            _inputAdapter?.Dispose();
         }
     }
 }
